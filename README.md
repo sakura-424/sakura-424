@@ -7,8 +7,6 @@
   <img src="https://media.giphy.com/media/gKCPKeGnUGIFAJGLc1/giphy.gif" width="180" alt="blue jellyfish" />
 </p>
 
-<p align="center"><b>Floating gently through code, like a jellyfish in the blue sea.</b></p>
-
 ---
 
 ## 🪼 About Me
