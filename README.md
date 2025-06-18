@@ -3,16 +3,16 @@
   READ ME
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/gKCPKeGnUGIFAJGLc1/giphy.gif" width="180" alt="blue jellyfish" />
-</p>
+</p> -->
 
 ---
 
 ## 🪼 About Me
 
-- 🌊 Like: jerryfish, flower
-- 🖥️ Main Skills: Java, C, JavaScript
+<!-- - 🌊 Like: jerryfish, flower -->
+- 🖥️ Main Skills: Java, JavaScript
 
 ---
 
