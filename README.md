@@ -6,13 +6,13 @@
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/gKCPKeGnUGIFAJGLc1/giphy.gif" width="180" alt="blue jellyfish" />
 </p> -->
-
+<!--
 ---
 
 ## 🪼 About Me
 
 <!-- - 🌊 Like: jerryfish, flower -->
-- 🖥️ Main Skills: Java, JavaScript
+<!-- - 🖥️ Main Skills: Java, JavaScript -->
 
 ---
 
